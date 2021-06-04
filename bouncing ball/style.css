@@ -1,0 +1,12 @@
+body {
+    width: 600px;
+    margin: auto;
+}
+
+canvas {
+    background-color: black;
+}
+
+p {
+    font-size: 13px;
+}
